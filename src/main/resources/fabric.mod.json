@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "tmis",
+  "version": "${version}",
+  "name": "TMIS",
+  "description": "",
+  "authors": [
+    "Quintair",
+    "Araxsis"
+  ],
+  "contact": {
+    "repo": "https://github.com/Quintair/TMIS"
+  },
+  "license": "MIT",
+  "icon": "assets/tmis/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "ru.quiara.tmis.TMISClient"
+    ],
+    "main": [
+      "ru.quiara.tmis.TMIS"
+    ],
+    "fabric-datagen": [
+      "ru.quiara.tmis.TMISDataGeneration"
+    ]
+  },
+  "mixins": [
+    "tmis.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
