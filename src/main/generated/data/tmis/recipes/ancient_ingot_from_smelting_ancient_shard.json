@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 5.0,
+  "group": "ancient_shard",
+  "ingredient": {
+    "item": "tmis:ancient_shard"
+  },
+  "result": "tmis:ancient_ingot"
+}

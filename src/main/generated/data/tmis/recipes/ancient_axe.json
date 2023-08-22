@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "I": {
+      "item": "tmis:ancient_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "II",
+    "IS",
+    " S"
+  ],
+  "result": {
+    "item": "tmis:ancient_axe"
+  },
+  "show_notification": true
+}
