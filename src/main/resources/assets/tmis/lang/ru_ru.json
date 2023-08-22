@@ -1,3 +1,14 @@
 {
+  "item.tmis.ancient_shard": "Древний Осколок",
+  "item.tmis.ancient_ingot": "Древний Слиток",
 
+  "item.tmis.ancient_soup": "Древний Суп",
+
+  "item.tmis.ancient_sword": "Древний Меч",
+  "item.tmis.ancient_pickaxe": "Древний Кирка",
+  "item.tmis.ancient_axe": "Древний Топор",
+  "item.tmis.ancient_shovel": "Древний Лопата",
+  "item.tmis.ancient_hoe": "Древний Мотыга",
+
+  "itemGroup.tmis.star_item_group": "Ancient"
 }

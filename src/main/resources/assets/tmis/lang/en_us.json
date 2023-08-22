@@ -1,3 +1,14 @@
 {
+  "item.tmis.ancient_shard": "Ancient Shard",
+  "item.tmis.ancient_ingot": "Ancient Ingot",
 
+  "item.tmis.ancient_soup": "Ancient Soup",
+
+  "item.tmis.ancient_sword": "Ancient Sword",
+  "item.tmis.ancient_pickaxe": "Ancient Pickaxe",
+  "item.tmis.ancient_axe": "Ancient Axe",
+  "item.tmis.ancient_shovel": "Ancient Shovel",
+  "item.tmis.ancient_hoe": "Ancient Hoe",
+
+  "itemGroup.tmis.ancient_item_group": "Ancient"
 }
